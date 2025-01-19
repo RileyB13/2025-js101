@@ -1,5 +1,5 @@
 ###Keep my note taking .md file out of this.
-BUDDY.md
+*.md
 node_modules/
 *.yml
 
